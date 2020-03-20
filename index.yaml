@@ -2,8 +2,25 @@ apiVersion: v1
 entries:
   kubewise:
   - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2020-03-20T14:51:00.593518Z"
+    description: A Slack Bot for Helm
+    digest: 894b3f03f26d5117fc01db538ae6c96a4c55f51429e3b0939a2e4bd79a1004b3
+    icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
+    maintainers:
+    - email: david@larder.dev
+      name: davidtuite
+      url: https://www.davidtuite.com
+    name: kubewise
+    sources:
+    - https://github.com/larderdev/kubewise
+    type: application
+    urls:
+    - kubewise-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-03-19T21:36:00.80493Z"
+    created: "2020-03-20T14:51:00.592761Z"
     description: A Slack Bot for Helm
     digest: c00898da666263185b5d0269077cd991da8aa5a10a06ff4c8be534e229fdb393
     icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
@@ -20,7 +37,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-03-19T21:36:00.803902Z"
+    created: "2020-03-20T14:51:00.591506Z"
     description: A Slack Bot for Helm
     digest: 36e18bb1c5d3548bd2f7198378e2911f3074b4f103796bc994e1d30c09396c79
     icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
@@ -37,7 +54,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-03-19T21:36:00.80217Z"
+    created: "2020-03-20T14:51:00.590275Z"
     description: A Slack Bot for Helm
     digest: a6ccfb6bc8f28a8103824fea9d415db43923c1b7bb1f8c99dacda113353f3d74
     name: kubewise
@@ -47,7 +64,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-03-19T21:36:00.799268Z"
+    created: "2020-03-20T14:51:00.588307Z"
     description: A Slack Bot for Helm
     digest: 488ba2318eedb12348a798ccd2fa9090b755fd8ff7c5a42ddc05af32790eb79b
     name: kubewise
@@ -55,4 +72,4 @@ entries:
     urls:
     - kubewise-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-19T21:36:00.797481Z"
+generated: "2020-03-20T14:51:00.587137Z"
