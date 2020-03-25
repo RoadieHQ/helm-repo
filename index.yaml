@@ -2,8 +2,42 @@ apiVersion: v1
 entries:
   kubewise:
   - apiVersion: v2
+    appVersion: 0.4.1
+    created: "2020-03-25T20:26:40.12661Z"
+    description: A Slack Bot for Helm
+    digest: 289e61beed2192a613df8d138f0457dfca1edad6f0240006faeb0ba82a561845
+    icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
+    maintainers:
+    - email: david@larder.dev
+      name: davidtuite
+      url: https://www.davidtuite.com
+    name: kubewise
+    sources:
+    - https://github.com/larderdev/kubewise
+    type: application
+    urls:
+    - kubewise-0.6.1.tgz
+    version: 0.6.1
+  - apiVersion: v2
+    appVersion: 0.4.0
+    created: "2020-03-25T20:26:40.125799Z"
+    description: A Slack Bot for Helm
+    digest: ae40d26da726caeff9ef1e3e437b2c8c6d8c6bead2cb328a2af65100c0333638
+    icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
+    maintainers:
+    - email: david@larder.dev
+      name: davidtuite
+      url: https://www.davidtuite.com
+    name: kubewise
+    sources:
+    - https://github.com/larderdev/kubewise
+    type: application
+    urls:
+    - kubewise-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
     appVersion: 0.3.0
-    created: "2020-03-22T22:15:36.346127Z"
+    created: "2020-03-25T20:26:40.12471Z"
     description: A Slack Bot for Helm
     digest: f9bac9794c33eb0ecd143255e62c6510d24a24b9da584122524374325b74e6d7
     icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
@@ -20,7 +54,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-03-22T22:15:36.344043Z"
+    created: "2020-03-25T20:26:40.1233Z"
     description: A Slack Bot for Helm
     digest: 894b3f03f26d5117fc01db538ae6c96a4c55f51429e3b0939a2e4bd79a1004b3
     icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
@@ -37,7 +71,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-03-22T22:15:36.342902Z"
+    created: "2020-03-25T20:26:40.121545Z"
     description: A Slack Bot for Helm
     digest: c00898da666263185b5d0269077cd991da8aa5a10a06ff4c8be534e229fdb393
     icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
@@ -54,7 +88,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-03-22T22:15:36.341799Z"
+    created: "2020-03-25T20:26:40.118269Z"
     description: A Slack Bot for Helm
     digest: 36e18bb1c5d3548bd2f7198378e2911f3074b4f103796bc994e1d30c09396c79
     icon: https://github.com/larderdev/kubewise/blob/master/assets/kubewise-mark-blue-512x512.png
@@ -71,7 +105,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-03-22T22:15:36.33952Z"
+    created: "2020-03-25T20:26:40.116247Z"
     description: A Slack Bot for Helm
     digest: a6ccfb6bc8f28a8103824fea9d415db43923c1b7bb1f8c99dacda113353f3d74
     name: kubewise
@@ -81,7 +115,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-03-22T22:15:36.335866Z"
+    created: "2020-03-25T20:26:40.11493Z"
     description: A Slack Bot for Helm
     digest: 488ba2318eedb12348a798ccd2fa9090b755fd8ff7c5a42ddc05af32790eb79b
     name: kubewise
@@ -89,4 +123,4 @@ entries:
     urls:
     - kubewise-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-22T22:15:36.334252Z"
+generated: "2020-03-25T20:26:40.113359Z"
